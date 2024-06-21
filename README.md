@@ -1,5 +1,4 @@
-# Please edit your userid in repo . open main.py 》 line no. 24  & line no. 27 change owner id and admin id . then bot will work properly... 
-
+VICKY♥️
 
 # Deploy To Heroku
 
